@@ -32,22 +32,12 @@ sidebar:
 career-profile:
     title: Resumo
     summary: |
-        Atualmente atuo como desenvolvedor junior em uma empresa com
-        foco em nuvem e infraestrutura de TI, empresa onde inicio uma
-        equipe de desenvolvimento (um grande desafio, mas é disso que eu
-        gosto).
-        Venho me desenvolvendo cada dia que passa nesse mundo dev (cá
-        entre nós essa área é apaixonante).
-        Atualmente estou focado principalmente em me aperfeiçoar em
-        Backend, com técnologias como Laravel e Python.
-        Além disso também estou evoluindo em Frontend, por mais que
-        não seja meu foco para o futuro, acho necessário entender como
-        funciona e está sendo muito legal aplicar as habilidades adiquiridas
-        no meu trabalho atual.
-        Pessoalmente sou uma pessoa relativamente nova e encantada
-        com o mundo de desenvolvimento, acredito que uma equipe unida
-        e sintonizada é de extremo valor e com certeza consegue entregar
-        ótimos resultados.
+        Atualmente atuo como desenvolvedor junior em uma empresa com foco em nuvem e infraestrutura de TI, empresa onde inicio uma equipe de desenvolvimento.
+        Venho me desenvolvendo cada dia que passa nesse mundo dev (cá entre nós essa área é apaixonante).
+        Atualmente estou focado principalmente em me aperfeiçoar em Frontend, utilizando VueJS.
+        Além disso também estou evoluindo minhas skills de Backend, pois acredito que é importante conhecer como funciona, principalmente em início de carreira
+        Pessoalmente sou uma pessoa relativamente nova e que curte bastante esse mundo de tecnologia, desde mais jovem.
+        Acredito que uma equipe unida e sintonizada é de extremo valor e com certeza consegue entregar ótimos resultados. 
 education:
     - degree: Ciencia da Computação
       university: Universidade Estácio de Sá
