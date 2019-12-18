@@ -3,187 +3,147 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ronnie Pereira
+    tagline: Desenvolvedor Web
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: vinniciusrp@gmail.com
+    phone: (16) 99117-0883
+    website:
+    linkedin: ronniepereira
+    github: ronniepereira
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - idiom: Inglês
+        level: Basico
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Atualmente atuo como desenvolvedor junior em uma empresa com
+        foco em nuvem e infraestrutura de TI, empresa onde inicio uma
+        equipe de desenvolvimento (um grande desafio, mas é disso que eu
+        gosto).
+        Venho me desenvolvendo cada dia que passa nesse mundo dev (cá
+        entre nós essa área é apaixonante).
+        Atualmente estou focado principalmente em me aperfeiçoar em
+        Backend, com técnologias como Laravel e Python.
+        Além disso também estou evoluindo em Frontend, por mais que
+        não seja meu foco para o futuro, acho necessário entender como
+        funciona e está sendo muito legal aplicar as habilidades adiquiridas
+        no meu trabalho atual.
+        Pessoalmente sou uma pessoa relativamente nova e encantada
+        com o mundo de desenvolvimento, acredito que uma equipe unida
+        e sintonizada é de extremo valor e com certeza consegue entregar
+        ótimos resultados.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Ciencia da Computação
+      university: Universidade Estácio de Sá
+      time: 2017 - 2020
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
+#           - Bullet point
+#           - Bullet point
+    - degree: Técnico em Informatica
+      university: SENAC
+      time: 2015 - 2016
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
+#           - Bullet point
+#           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Analista de desenvolvimento Jr
+      time: Junho/2018 - Até o momento
+      company: CCM Tecnologia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Membro da equipe de desenvolvimento. Trabalho principalmente
+        desenvolvendo novas funcionalidades e algumas integrações entre aplicações, além
+        de dar suporte aos sistemas presentes na empresa, atualmente utilizamos
+        Laravel PHP, VueJS, MySQL, versionamento com Git.
+        Sempre antenado com novas tecnologias e tendências a fim de melhorar de
+        uma forma geral os resultados entregados.
+    - role: Analista de Monitoramento Jr
+      time: Outubro/2018 - Junho/2019
+      company: CCM Tecnologia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Membro da equipe responsável pela gestão da ferramenta de
+        monitoramento(Zabbix).
+        Exercendo supervisão de aproximadamente 1000 hosts, desenvolvendo
+        templates para viabilizar monitoramento de novas aplicações, executando
+        melhorias e correções na ferramenta,.
+        Também trabalhei em conjunto com o suporte técnico, auxiliando com
+        correções e melhorias em sistemas operacionais (Windows Server, Linux),
+        implantação e gerenciamento de firewall, incluindo conectividade através de
+        VPN.
+    - role: Estágiario em Infraestrutura de TI
+      time: Julho/2017 - Agosto/2018
+      company: Compliance Soluções Fiscais
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Responsável pela manutenção e gestão de
+        equipamentos de informática e periféricos da empresa, atualizando o sistema
+        da empresa
+        (Banco de Dados (Oracle) e Portal JBoss), colaborando com melhorias e
+        correções
+        relacionado a redes, firewall, servidores internos e em nuvem (AWS).
 projects:
-    title: Projects
+    title: Projetos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Principais projetos que construi ou fiz parte do desenvolvimento
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Ranek
+        link: "https://github.com/ronniepereira/vuejs-origamid"
+        tagline: "Projeto final do curso de VueJS completo, onde o objetivo foi desenvolver um portal de vendas, utilizando  VueJS para construir uma SPA, link online do projeto completo: https://ranek.origamid.dev/"
 
-      - title: DevStudio
+      - title: Portal de Boletos
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Projeto em que o objetivo foi solucionar uma problematica onde o cliente não tinha acesso aos boletos de fatura de forma rapida, foi desenvolvido um portal utilizando Laravel e VueJS, realizando integração diretamente com o ERP. A principal função do portal é disponibilizar todos os boletos do cliente para download de maneira rapida."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Laravel PHP
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: VueJS
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Linux
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: HTML5 & CSS
+        level: 90%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
